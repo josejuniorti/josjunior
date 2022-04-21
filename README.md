@@ -1,6 +1,6 @@
 ### Oi, Bem Vindo ao meu perfil 👋
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/josjunior">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josjunior&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josjunior&layout=compact&langs_count=7&theme=codeSTACKr"/>
