@@ -16,6 +16,7 @@
   <img align="center" alt="José Júnior REACT" height="38" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">     
   <img align="center" alt="José Júnior NODEJS" height="40" width="38" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
   <img align="center" alt="JOSÉ JÚNIOR BOOTSTRAP" height="38" width="36" src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4">
+  <img align="center" alt="JOSÉ JÚNIOR GIT" height="45" width="48" src="https://img.icons8.com/nolan/344/git.png">
 
 </div>
 
