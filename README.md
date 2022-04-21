@@ -1,9 +1,9 @@
 ### Oi, Bem Vindo ao meu perfil 👋
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/josjunior">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josjunior&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josjunior&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=josjunior&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josjunior&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
  <div style="display: inline_block">
   <img align="center" alt="Rafa-Ts" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/java.svg">
