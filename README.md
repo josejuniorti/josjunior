@@ -24,7 +24,11 @@ Olá! Bem vindo ao meu perfil no GitHub 🖐️
 
 </div>
 📚 Estudando
+
 <br>
+<br>
+
+
 <div align="center">
   
 ![Java](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=java&logoColor=white&color=191970)&nbsp;
@@ -39,8 +43,11 @@ Olá! Bem vindo ao meu perfil no GitHub 🖐️
 ---
   
 </div>
+
 ▶ Vídeos recentes do meu canal no Youtube
+
 - [TAGS BÁSICAS PARA WEBSITE COM HTML5](https://www.youtube.com/watch?v=KIyUKX0Foqw)
+
 ▶ [Todos os vídeos](https://www.youtube.com/channel/UCMArJl6G3SweRV576P0rRnw/videos)
 
 ---
