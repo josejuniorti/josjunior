@@ -8,7 +8,7 @@ Olá! Seja Bem vindo ao meu perfil no GitHub 👊
 
 </div>
 
-🛠 Minhas linguagens e ferramentas
+🛠 Linguagens, ferramentas e sistemas que utilizo
 <div align="center">
   
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&color=191970)&nbsp;
@@ -18,9 +18,15 @@ Olá! Seja Bem vindo ao meu perfil no GitHub 👊
 ![Pycharm](https://img.shields.io/badge/-PYCHARM-05122A?style=flat&logo=pycharm&logoColor=21d789&color=191970)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-ECLIPSE-05122A?style=flat&logo=eclipse&logoColor=f89000&color=191970)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VISUAL%20STUDIO%20CODE-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC&color=191970)&nbsp;
+![Premiere](https://img.shields.io/badge/-PREMIERE-05122A?style=flat&logo=adobe-premiere-pro&logoColor=blue&color=191970)&nbsp;
+![After Effects](https://img.shields.io/badge/-AFTER%20EFFECTS-05122A?style=flat&logo=adobe-after-effects&logoColor=darkgray&color=191970)&nbsp;
+![Kdenlive](https://img.shields.io/badge/-KDENLIVE-05122A?style=flat&logo=kdenlive&logoColor=blue&color=191970)&nbsp;
+![OBS Studio](https://img.shields.io/badge/-OBS%20STUDIO-05122A?style=flat&logo=obs-studio&logoColor=black&color=191970)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/-PHOTOSHOP-05122A?style=flat&logo=adobe-photoshop&logoColor=00BFFF&color=191970)&nbsp;
+![Gimp](https://img.shields.io/badge/-GIMP-05122A?style=flat&logo=gimp&logoColor=white&color=191970)&nbsp;
 ![Linux](https://img.shields.io/badge/-LINUX-05122A?style=flat&logo=linux&logoColor=D8D8D8&color=191970)&nbsp;
 ![Windows](https://img.shields.io/badge/-WINDOWS-05122A?style=flat&logo=windows&logoColor=007ACC&color=191970)&nbsp;
+![Android](https://img.shields.io/badge/-ANDROID-05122A?style=flat&logo=android&logoColor=green&color=191970)&nbsp;
 
 </div>
 
