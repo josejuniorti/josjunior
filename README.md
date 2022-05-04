@@ -20,15 +20,12 @@ Olá! Bem vindo ao meu perfil no GitHub 🖐️
 ![Linux](https://img.shields.io/badge/-LINUX-05122A?style=flat&logo=linux&logoColor=D8D8D8&color=191970)&nbsp;
 ![Windows](https://img.shields.io/badge/-WINDOWS-05122A?style=flat&logo=windows&logoColor=007ACC&color=191970)&nbsp;
 
+</div>
+
 ---
 
-</div>
+
 📚 Estudando
-
-<br>
-<br>
-
-
 <div align="center">
   
 ![Java](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=java&logoColor=white&color=191970)&nbsp;
