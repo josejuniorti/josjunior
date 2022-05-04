@@ -1,4 +1,4 @@
- <div style="display: inline_block" align="center" margin-top="-500px" >
+ <div style="display: inline_block" align="center" margin-top="-700px" >
   <img alt="José Júnior JAVA" height="20" width="20" src="https://cdn.worldvectorlogo.com/logos/java.svg">
   <img alt="José Júnior Python" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="José Júnior JAVASCRIPT" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
