@@ -1,10 +1,12 @@
-Olá! Bem vindo ao meu perfil no GitHub 🖐️
+Olá! Seja Bem vindo ao meu perfil no GitHub 👊
+
 <div align="center">
   <a href="https://github.com/josjunior">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josjunior&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a>
-</div>
 
 ---
+
+</div>
 
 🛠 Minhas linguagens e ferramentas
 <div align="center">
@@ -49,7 +51,7 @@ Olá! Bem vindo ao meu perfil no GitHub 🖐️
 
 ---
 
-💌 Contato
+✉️ Contato
 <br>
 <a href="mailto:sudojrr@gmail.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-sudojrr@gmail.com-05122A?style=flat&logo=gmail" alt="Gmail"/>
