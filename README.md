@@ -39,9 +39,9 @@ Olá! Seja Bem vindo ao meu perfil no GitHub 👊
 ![Node.js](https://img.shields.io/badge/-NODE.JS-05122A?style=flat&logo=node.js&color=191970)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-05122A?style=flat&logo=bootstrap&color=191970)&nbsp;
 
----
-  
 </div>
+
+---
 
 ▶ Vídeos recentes do meu canal no Youtube
 
