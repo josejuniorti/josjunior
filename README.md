@@ -1,4 +1,4 @@
-Olá! Bem vindo ao meu perfil no GitHub🖐️
+Olá! Bem vindo ao meu perfil no GitHub 🖐️
 
 <div align="center">
   <a href="https://github.com/josjunior">
