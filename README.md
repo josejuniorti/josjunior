@@ -5,7 +5,7 @@ Olá! Bem vindo ao meu perfil no GitHub🖐️
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josjunior&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a>
 </div>
 
-##
+---
 
 🧰 Tecnologias que mais uso no momento
 <div align="center">
@@ -21,7 +21,7 @@ Olá! Bem vindo ao meu perfil no GitHub🖐️
 <img alt="JOSÉ JÚNIOR GIT" height="30" width="33" src="https://img.icons8.com/nolan/344/git.png">
 </div>
 
-##
+---
 
 ▶ Vídeos recentes do meu canal no Youtube
 
