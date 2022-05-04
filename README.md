@@ -1,5 +1,4 @@
 Olá! Bem vindo ao meu perfil no GitHub 🖐️
-
 <div align="center">
   <a href="https://github.com/josjunior">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josjunior&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a>
@@ -7,22 +6,38 @@ Olá! Bem vindo ao meu perfil no GitHub 🖐️
 
 ---
 
-🧰 Tecnologias que mais uso no momento
+🛠 Minhas linguagens e ferramentas
 <div align="center">
-<img alt="JOSÉ JÚNIOR JAVA" height="30" width="33" src="https://cdn.worldvectorlogo.com/logos/java.svg">
-<img alt="JOSÉ JÚNIOR PYTHON" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png">
-<img alt="JOSÉ JÚNIOR JAVA SCRIPT" height="32" width="32" src="https://logospng.org/download/javascript/logo-javascript-1024.png">
-<img alt="JOSÉ JÚNIOR HTML5" height="31" width="31" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img alt="JOSÉ JÚNIOR CSS3" height="31" width="31" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img alt="JOSÉ JÚNIOR SQL" height="35" width="35" src="https://cdn0.iconfinder.com/data/icons/flat-design-database-set-3/24/sql-badge-512.png">
-<img alt="José Júnior NODEJS" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
-<img alt="JOSÉ JÚNIOR REACT" height="30" width="34" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png">
-<img alt="JOSÉ JÚNIOR BOOTSTRAP" height="30" width="30" src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4">
-<img alt="JOSÉ JÚNIOR GIT" height="30" width="33" src="https://img.icons8.com/nolan/344/git.png">
-</div>
+  
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&color=191970)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6&color=191970)&nbsp;
+![Git](https://img.shields.io/badge/-GIT-05122A?style=flat&logo=git&color=191970)&nbsp;
+![GitHub](https://img.shields.io/badge/-GITHUB-05122A?style=flat&logo=github&color=191970)&nbsp;
+![Pycharm](https://img.shields.io/badge/-PYCHARM-05122A?style=flat&logo=pycharm&logoColor=21d789&color=191970)&nbsp;
+![Eclipse](https://img.shields.io/badge/-ECLIPSE-05122A?style=flat&logo=eclipse&logoColor=f89000&color=191970)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VISUAL%20STUDIO%20CODE-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC&color=191970)&nbsp;
+![Adobe Photoshop](https://img.shields.io/badge/-PHOTOSHOP-05122A?style=flat&logo=adobe-photoshop&logoColor=00BFFF&color=191970)&nbsp;
+![Linux](https://img.shields.io/badge/-LINUX-05122A?style=flat&logo=linux&logoColor=D8D8D8&color=191970)&nbsp;
+![Windows](https://img.shields.io/badge/-WINDOWS-05122A?style=flat&logo=windows&logoColor=007ACC&color=191970)&nbsp;
 
 ---
 
+</div>
+📚 Estudando
+<div align="center">
+  
+![Java](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=java&logoColor=white&color=191970)&nbsp;
+![Python](https://img.shields.io/badge/-PYTHON-05122A?style=flat&logo=python&logoColor=white&color=191970)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-05122A?style=flat&logo=javascript&color=191970)&nbsp;
+![Sqlite](https://img.shields.io/badge/-SQLITE-05122A?style=flat&logo=sqlite&color=191970)&nbsp;
+![Markdown](https://img.shields.io/badge/-MARKDOWN-05122A?style=flat&logo=markdown&color=191970)&nbsp;
+![React](https://img.shields.io/badge/-REACT-05122A?style=flat&logo=react&color=191970)&nbsp;
+![Node.js](https://img.shields.io/badge/-NODE.JS-05122A?style=flat&logo=node.js&color=191970)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-05122A?style=flat&logo=bootstrap&color=191970)&nbsp;
+
+---
+  
+</div>
 ▶ Vídeos recentes do meu canal no Youtube
 
 
@@ -30,3 +45,14 @@ Olá! Bem vindo ao meu perfil no GitHub 🖐️
 
 
 ▶ [Todos os vídeos](https://www.youtube.com/channel/UCMArJl6G3SweRV576P0rRnw/videos)
+
+---
+
+💌 Contato
+<br>
+<a href="mailto:sudojrr@gmail.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-sudojrr@gmail.com-05122A?style=flat&logo=gmail" alt="Gmail"/>
+</a>
+<a href="https://instagram.com/josejunior.dev" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-josejunior.dev-05122A?style=flat&logo=instagram" alt="Instagram"/>
+</a>
