@@ -1,5 +1,3 @@
-### Oi, Bem Vindo ao meu perfil 👋
-
 <div align="center">
   <a href="https://github.com/josjunior">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=josjunior&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
