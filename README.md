@@ -51,3 +51,9 @@ Olá! Seja Bem vindo ao meu perfil no GitHub 👊
 ▶ [Todos os vídeos](https://www.youtube.com/channel/UCMArJl6G3SweRV576P0rRnw/videos)
 
 ---
+
+
+📬 Outros meios de contato<br>
+
+![Instagram](https://img.shields.io/badge/-josejunior.dev-05122A?style=flat&logo=instagram&color=black)&nbsp;
+
