@@ -32,7 +32,7 @@ Olá! Seja Bem vindo ao meu perfil no GitHub 👊
 <div align="center">
   
 ![Java](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=java&logoColor=white&color=191970)&nbsp;
-![Python](https://img.shields.io/badge/-PYTHON-05122A?style=flat&logo=python&logoColor=white&color=191970)&nbsp;
+![Python](https://img.shields.io/badge/-PYTHON-05122A?style=flat&logo=python&logoColor=yellow&color=191970)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-05122A?style=flat&logo=javascript&color=191970)&nbsp;
 ![Sqlite](https://img.shields.io/badge/-SQLITE-05122A?style=flat&logo=sqlite&color=191970)&nbsp;
 ![Markdown](https://img.shields.io/badge/-MARKDOWN-05122A?style=flat&logo=markdown&color=191970)&nbsp;
