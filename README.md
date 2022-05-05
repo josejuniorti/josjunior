@@ -15,6 +15,7 @@ Olá! Seja Bem vindo ao meu perfil no GitHub 👊
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6&color=191970)&nbsp;
 ![Git](https://img.shields.io/badge/-GIT-05122A?style=flat&logo=git&color=191970)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GITHUB-05122A?style=flat&logo=github&color=191970)&nbsp;
+![Blogger](https://img.shields.io/badge/-BLOGGER-05122A?style=flat&logo=blogger&logoColor=orange&color=191970)&nbsp;
 ![Pycharm](https://img.shields.io/badge/-PYCHARM-05122A?style=flat&logo=pycharm&logoColor=21d789&color=191970)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-ECLIPSE-05122A?style=flat&logo=eclipse&logoColor=f89000&color=191970)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VISUAL%20STUDIO%20CODE-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC&color=191970)&nbsp;
