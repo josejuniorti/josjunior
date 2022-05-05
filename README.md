@@ -51,12 +51,3 @@ Olá! Seja Bem vindo ao meu perfil no GitHub 👊
 ▶ [Todos os vídeos](https://www.youtube.com/channel/UCMArJl6G3SweRV576P0rRnw/videos)
 
 ---
-
-✉ Contato
-<br>
-<a href="mailto:sudojrr@gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-sudojrr@gmail.com-05122A?style=for-the-badge&logo=gmail&color=191970&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://instagram.com/josejunior.dev" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-josejunior.dev-05122A?style=for-the-badge&logo=instagram&color=191970&logoColor=white" alt="Instagram"/>
-</a>
