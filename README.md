@@ -11,18 +11,16 @@ Olá! Seja Bem vindo ao meu perfil no GitHub 👊
 🛠 Linguagens, ferramentas e sistemas que utilizo
 <div align="center">
   
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&color=191970)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6&color=191970)&nbsp;
-![Git](https://img.shields.io/badge/-GIT-05122A?style=flat&logo=git&color=191970)&nbsp;
-![GitHub](https://img.shields.io/badge/-GITHUB-05122A?style=flat&logo=github&color=191970)&nbsp;
-![Blogger](https://img.shields.io/badge/-BLOGGER-05122A?style=flat&logo=blogger&logoColor=orange&color=191970)&nbsp;
-![Pycharm](https://img.shields.io/badge/-PYCHARM-05122A?style=flat&logo=pycharm&logoColor=21d789&color=191970)&nbsp;
-![Eclipse](https://img.shields.io/badge/-ECLIPSE-05122A?style=flat&logo=eclipse&logoColor=f89000&color=191970)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-VISUAL%20STUDIO%20CODE-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC&color=191970)&nbsp;
-![Adobe Photoshop](https://img.shields.io/badge/-PHOTOSHOP-05122A?style=flat&logo=adobe-photoshop&logoColor=00BFFF&color=191970)&nbsp;
-![Linux](https://img.shields.io/badge/-LINUX-05122A?style=flat&logo=linux&logoColor=D8D8D8&color=191970)&nbsp;
-![Windows](https://img.shields.io/badge/-WINDOWS-05122A?style=flat&logo=windows&logoColor=007ACC&color=191970)&nbsp;
-![Android](https://img.shields.io/badge/-ANDROID-05122A?style=flat&logo=android&logoColor=green&color=191970)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6&)&nbsp;
+![Git](https://img.shields.io/badge/-GIT-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GITHUB-05122A?style=flat&logo=github)&nbsp;
+![Blogger](https://img.shields.io/badge/-BLOGGER-05122A?style=flat&logo=blogger&logoColor=orange)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VISUAL%20STUDIO%20CODE-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Adobe Photoshop](https://img.shields.io/badge/-PHOTOSHOP-05122A?style=flat&logo=adobe-photoshop&logoColor=00BFFF)&nbsp;
+![Linux](https://img.shields.io/badge/-LINUX-05122A?style=flat&logo=linux&logoColor=D8D8D8)&nbsp;
+![Windows](https://img.shields.io/badge/-WINDOWS-05122A?style=flat&logo=windows&logoColor=007ACC)&nbsp;
+![Android](https://img.shields.io/badge/-ANDROID-05122A?style=flat&logo=android&logoColor=green)&nbsp;
 
 </div>
 
@@ -32,14 +30,13 @@ Olá! Seja Bem vindo ao meu perfil no GitHub 👊
 📚 Estudando
 <div align="center">
   
-![Java](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=java&logoColor=white&color=191970)&nbsp;
-![Python](https://img.shields.io/badge/-PYTHON-05122A?style=flat&logo=python&logoColor=yellow&color=191970)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-05122A?style=flat&logo=javascript&color=191970)&nbsp;
-![Sqlite](https://img.shields.io/badge/-SQLITE-05122A?style=flat&logo=sqlite&color=191970)&nbsp;
-![Markdown](https://img.shields.io/badge/-MARKDOWN-05122A?style=flat&logo=markdown&color=191970)&nbsp;
-![React](https://img.shields.io/badge/-REACT-05122A?style=flat&logo=react&color=191970)&nbsp;
-![Node.js](https://img.shields.io/badge/-NODE.JS-05122A?style=flat&logo=node.js&color=191970)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-05122A?style=flat&logo=bootstrap&color=191970)&nbsp;
+![Java](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=java&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/-PYTHON-05122A?style=flat&logo=python&logoColor=yellow)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-05122A?style=flat&logo=javascript)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-05122A?style=flat&logo=bootstrap)&nbsp;
+![Sqlite](https://img.shields.io/badge/-SQLITE-05122A?style=flat&logo=sqlite)&nbsp;
+![React](https://img.shields.io/badge/-REACT-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-NODE.JS-05122A?style=flat&logo=node.js)&nbsp;
 
 </div>
 
