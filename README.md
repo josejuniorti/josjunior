@@ -54,5 +54,10 @@ Olá! Seja Bem vindo ao meu perfil no GitHub 👊
 📬 Outros meios de contato
 <a href="https://instagram.com/josejunior.dev" target="_blank">
 
-  <img src="https://img.shields.io/badge/-josejunior.dev-05122A?style=flat&logo=instagram" alt="instagram"/>
+  <img src="https://img.shields.io/badge/-Instagram:%20josejunior.dev-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+
+<a href="https://pt.stackoverflow.com/users/287450/josejunior-dev" target="_blank">
+
+  <img src="https://img.shields.io/badge/-StackOverFlow:%20josejunior.dev-05122A?style=flat&logo=stackoverflow" alt="StackOverFlow"/>
 </a>
