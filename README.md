@@ -19,7 +19,7 @@ Olá! Seja Bem vindo ao meu perfil no GitHub 👊
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6&)&nbsp;
 ![Git](https://img.shields.io/badge/-GIT-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GITHUB-05122A?style=flat&logo=github)&nbsp;
-![Sqlite](https://img.shields.io/badge/-SQLITE-05122A?style=flat&logo=sqlite)&nbsp;
+![SQLServer](https://img.shields.io/badge/-SQLSERVER-05122A?style=flat&logo=microsoft-sql-server)&nbsp;
 ![React](https://img.shields.io/badge/-REACT-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-NODE.JS-05122A?style=flat&logo=node.js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-05122A?style=flat&logo=bootstrap)&nbsp;
